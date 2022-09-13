@@ -7,7 +7,7 @@ public class Hello {
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
 		
-		System.out.println("How are you feeling today?");
+		System.out.println("Hi, Bill. How are you?");
 		String mood = in.nextLine();
 		
 		System.out.println("Hello and welcome to CSE 131!");
